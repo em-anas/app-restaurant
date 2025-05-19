@@ -1,0 +1,15 @@
+export { QuotationIcon } from "./QuotationIcon";
+export { InstagramIcon } from "./InstagramIcon";
+export { XTwitterIcon } from "./XTwitterIcon";
+export { FacebookIcon } from "./FacebookIcon";
+export { BurgerIcon } from "./BurgerIcon";
+export { CupIcon } from "./CupIcon";
+export { ContactSupportIcon } from "./ContactSupportIcon";
+export { CartIcon } from "./CartIcon";
+export { ForkKnifeIcon } from "./ForkKnifeIcon";
+export { ChefIcon } from "./ChefIcon";
+export { AppIcon } from "./AppIcon";
+export { ArrowUpIcon } from "./ArrowUpIcon";
+export { MailIcon } from "./MailIcon";
+export { SearchIcon } from "./SearchIcon";
+export { HeartIcon } from "./HeartIcon";

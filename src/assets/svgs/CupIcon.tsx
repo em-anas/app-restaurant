@@ -1,0 +1,12 @@
+import React from 'react';
+
+export const CupIcon: React.FC<React.SVGProps<SVGSVGElement>> = ({
+  height = 32,
+  width = 32,
+  fill: fillColor = `var(--color-primary)`
+}) => (
+  <svg width={width} height={height} viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M13 22.09C9.6875 22.09 7 19.4025 7 16.09V1.59C7 0.777496 7.625 0.0899963 8.5 0.0899963H33C37.375 0.0899963 41 3.715 41 8.09C41 12.5275 37.375 16.09 33 16.09H31C31 19.4025 28.3125 22.09 25 22.09H13ZM33 4.09H31V12.09H33C35.1875 12.09 37 10.34 37 8.09C37 5.9025 35.1875 4.09 33 4.09ZM35.9375 28.09H4C1 28.09 0.1875 24.09 1.75 24.09H38.1875C39.75 24.09 38.9375 28.09 35.9375 28.09Z" fill={fillColor} />
+  </svg>
+);
+

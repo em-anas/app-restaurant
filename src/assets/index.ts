@@ -1,0 +1,26 @@
+export { default as BgHero1 } from './bg-hero-1.png';
+export { default as BgHero2 } from './bg-hero-2.png';
+export { default as Testimonial1 } from './testimonial-1.png';
+export { default as Testimonial2 } from './testimonial-2.png';
+export { default as Testimonial3 } from './testimonial-3.png';
+export { default as Team1 } from './team-1.png';
+export { default as Team2 } from './team-2.png';
+export { default as Team3 } from './team-3.png';
+export { default as Team4 } from './team-4.png';
+export { default as BookTable } from './book-table.png';
+export { default as Menu1 } from './menu-1.png';
+export { default as Menu2 } from './menu-2.png';
+export { default as Menu3 } from './menu-3.png';
+export { default as Menu4 } from './menu-4.png';
+export { default as Menu5 } from './menu-5.png';
+export { default as Menu6 } from './menu-6.png';
+export { default as Menu7 } from './menu-7.png';
+export { default as Menu8 } from './menu-8.png';
+export { default as About1 } from './about-1.png';
+export { default as About2 } from './about-2.png';
+export { default as About3 } from './about-3.png';
+export { default as About4 } from './about-4.png';
+export { default as HeroImage } from './hero.png';
+export { default as MapsImage } from './maps.png';
+
+export * from './svgs'; 
